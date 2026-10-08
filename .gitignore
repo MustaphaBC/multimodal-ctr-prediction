@@ -16,3 +16,5 @@ output/
 checkpoints/
 saved_models/
 .ipynb_checkpoints/
+RAG-Qween.ipynb
+rag.txt
